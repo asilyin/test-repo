@@ -1,0 +1,274 @@
+{
+  "/yZ+3t": {
+    "defaultMessage": "Human translation",
+    "description": "Workflow option label for human translation."
+  },
+  "45sR3g": {
+    "defaultMessage": "Project {projectName}",
+    "description": "Surface header title for the project page."
+  },
+  "4EIFgg": {
+    "defaultMessage": "AI translation + human review",
+    "description": "Workflow option label for machine translation with human post-editing."
+  },
+  "4NWE/+": {
+    "defaultMessage": "Loading...",
+    "description": "Chat loading text before messages appear."
+  },
+  "5x+4Oc": {
+    "defaultMessage": "Change settings",
+    "description": "Link text to change project settings."
+  },
+  "69Wa00": {
+    "defaultMessage": "All options selected",
+    "description": "Placeholder when all options are already selected."
+  },
+  "6ZvDhi": {
+    "defaultMessage": "Select the language to translate into.",
+    "description": "Description for the target language field."
+  },
+  "6n0G7w": {
+    "defaultMessage": "Select workflow",
+    "description": "Placeholder for selecting a workflow."
+  },
+  "773zsl": {
+    "defaultMessage": "Translate current page",
+    "description": "Button text to translate the current Canva page."
+  },
+  "81kMEH": {
+    "defaultMessage": "Project name",
+    "description": "Label for the project name field."
+  },
+  "9y/xHH": {
+    "defaultMessage": "Something went wrong while sending this page for translation. Please try again.",
+    "description": "Generic error shown when send for translation fails."
+  },
+  "CLzZy3": {
+    "defaultMessage": "Select target language",
+    "description": "Placeholder for selecting a target language."
+  },
+  "D+42Us": {
+    "defaultMessage": "Select source language",
+    "description": "Placeholder for selecting a source language."
+  },
+  "EfyO3c": {
+    "defaultMessage": "Sending...",
+    "description": "Chat button text while sending a message."
+  },
+  "EsRb6b": {
+    "defaultMessage": "Keep translation",
+    "description": "Button text to keep the current translation."
+  },
+  "FFF267": {
+    "defaultMessage": "Source texts restored.",
+    "description": "Success message when source content is restored."
+  },
+  "FphYIe": {
+    "defaultMessage": "Smartcat",
+    "description": "Alt text for the Smartcat logo."
+  },
+  "G4/icu": {
+    "defaultMessage": "Translation",
+    "description": "Tab label for translation actions."
+  },
+  "GG20TT": {
+    "defaultMessage": "Get translations from Smartcat",
+    "description": "Button text to fetch translations from Smartcat."
+  },
+  "IFjMwT": {
+    "defaultMessage": "This page isn't linked to any Smartcat document. We can't fetch or update translations, please select another page or send this one for translation first.",
+    "description": "Error message shown when the page is not linked to a Smartcat document."
+  },
+  "JP7JkC": {
+    "defaultMessage": "Select one or more languages to translate into.",
+    "description": "Description for the target languages field."
+  },
+  "L3BchT": {
+    "defaultMessage": "Connect account",
+    "description": "Primary button text to connect a Smartcat account."
+  },
+  "PXrhTj": {
+    "defaultMessage": "Detect and translate text found in images",
+    "description": "Description for the translate images toggle."
+  },
+  "PquwSS": {
+    "defaultMessage": "Non-absolute pages are not supported for translation yet.",
+    "description": "Error message shown when the current Canva page is not an absolute page."
+  },
+  "PsLlqQ": {
+    "defaultMessage": "Search languages",
+    "description": "Search input placeholder for target languages."
+  },
+  "RMfI1x": {
+    "defaultMessage": "No project found. Please create a project first.",
+    "description": "Message shown when no project is available."
+  },
+  "SC+6vF": {
+    "defaultMessage": "Unlink project",
+    "description": "Button text to unlink the Smartcat project."
+  },
+  "T1w8CO": {
+    "defaultMessage": "You've just discovered the easiest way to communicate or create content in multiple languages on the go. You will need a Smartcat account to start working with Smartcat Agent.",
+    "description": "Login page description."
+  },
+  "TK1e9Y": {
+    "defaultMessage": "Select target languages",
+    "description": "Placeholder for selecting target languages."
+  },
+  "Uf77NM": {
+    "defaultMessage": "Edit translation in Smartcat",
+    "description": "Button text to edit the translation in Smartcat."
+  },
+  "V2rW6t": {
+    "defaultMessage": "Source language",
+    "description": "Label for the source language field."
+  },
+  "VCn1is": {
+    "defaultMessage": "Create project",
+    "description": "Primary button text to create a project."
+  },
+  "VDxGi6": {
+    "defaultMessage": "Select source language",
+    "description": "Placeholder for selecting the source language."
+  },
+  "VU5G7q": {
+    "defaultMessage": "Welcome to Smartcat Agent for Canva!",
+    "description": "Login page heading."
+  },
+  "Vc4sVk": {
+    "defaultMessage": "Something went wrong while sending this page for translation. Please try again.",
+    "description": "Error message shown when the translation request fails for an unexpected reason."
+  },
+  "W+8Kyj": {
+    "defaultMessage": "You are logged in.",
+    "description": "Label showing the user is logged in."
+  },
+  "W6zJYB": {
+    "defaultMessage": "Unfortunately, this document type is not currently supported.",
+    "description": "Error message shown when the current Canva page type is unsupported."
+  },
+  "XdILrh": {
+    "defaultMessage": "Target language",
+    "description": "Label for the target language field."
+  },
+  "YmYock": {
+    "defaultMessage": "Cancel",
+    "description": "Cancel button during login."
+  },
+  "Zykx5g": {
+    "defaultMessage": "Translate images",
+    "description": "Label for the translate images toggle."
+  },
+  "c0wlyR": {
+    "defaultMessage": "Send",
+    "description": "Chat button text to send a message."
+  },
+  "ePHjJw": {
+    "defaultMessage": "Type your message...",
+    "description": "Placeholder for the chat input."
+  },
+  "ePwfri": {
+    "defaultMessage": "Unfortunately, this document type is not currently supported.",
+    "description": "Error shown when page type is unsupported for translation."
+  },
+  "etYmx7": {
+    "defaultMessage": "Cancel translation",
+    "description": "Button text to confirm canceling translation."
+  },
+  "fHtbFU": {
+    "defaultMessage": "Workflow",
+    "description": "Label for the workflow field."
+  },
+  "fb58Mb": {
+    "defaultMessage": "Retry sign-in",
+    "description": "Login button text when retrying sign-in."
+  },
+  "j/oQJh": {
+    "defaultMessage": "You are logged in to workspace {accountName}.",
+    "description": "Label showing the user is logged in to a specific workspace."
+  },
+  "kAaYXr": {
+    "defaultMessage": "AI translation",
+    "description": "Workflow option label for machine translation."
+  },
+  "kYPTvH": {
+    "defaultMessage": "Enter project name",
+    "description": "Placeholder for the project name input."
+  },
+  "l31WV7": {
+    "defaultMessage": "Target languages",
+    "description": "Label for the target languages field."
+  },
+  "lvKkCF": {
+    "defaultMessage": "Successfully sent page to Smartcat",
+    "description": "Success message after sending page for translation."
+  },
+  "lxL8wy": {
+    "defaultMessage": "Info",
+    "description": "Tab label for project information."
+  },
+  "nFb0qI": {
+    "defaultMessage": "You've navigated to a different page. Please return to the original page to continue.",
+    "description": "Warning shown when the user switches pages while an action is running."
+  },
+  "oHy2YI": {
+    "defaultMessage": "Non-absolute pages are not supported for translation yet.",
+    "description": "Error shown when trying to translate a non-absolute page."
+  },
+  "qLX7bO": {
+    "defaultMessage": "Log out",
+    "description": "Menu item to log out of the account."
+  },
+  "r5fzyx": {
+    "defaultMessage": "Create a project, select the source language, target languages, and translation workflow.",
+    "description": "Instructions for creating a Smartcat project."
+  },
+  "rWvyKu": {
+    "defaultMessage": "Cancel translation",
+    "description": "Button text to cancel translation for the selected language."
+  },
+  "rcJJnv": {
+    "defaultMessage": "Clear all",
+    "description": "Button text to clear all selected options."
+  },
+  "s+HZMM": {
+    "defaultMessage": "Translation fetched from Smartcat. It may take a few moments for translated text to show in your design.",
+    "description": "Success message after fetching translations from Smartcat."
+  },
+  "s2NQWQ": {
+    "defaultMessage": "Are you sure you want to cancel translation of this page to {language}?",
+    "description": "Confirmation message shown before canceling translation for a language."
+  },
+  "sIWsIm": {
+    "defaultMessage": "Send to Smartcat for translation",
+    "description": "Button text to send the page to Smartcat for translation."
+  },
+  "vP9XxH": {
+    "defaultMessage": "{language} (Source)",
+    "description": "Language option label suffix indicating the source language in the target selector."
+  },
+  "w+IyMk": {
+    "defaultMessage": "Translation canceled and source content restored.",
+    "description": "Success message after canceling translation and restoring source."
+  },
+  "wbb2DH": {
+    "defaultMessage": "Select the language of your current content.",
+    "description": "Description for the source language field."
+  },
+  "wvcyD1": {
+    "defaultMessage": "Open project",
+    "description": "Button text to open the project in Smartcat."
+  },
+  "ydxS+q": {
+    "defaultMessage": "Something went wrong while canceling translation. Please try again.",
+    "description": "Generic error shown when cancel translation fails."
+  },
+  "zI80A+": {
+    "defaultMessage": "Select options",
+    "description": "Placeholder for the multi-select input."
+  },
+  "zJvJiX": {
+    "defaultMessage": "{count, plural, one {# option selected} other {# options selected}}",
+    "description": "Text showing how many options are selected."
+  }
+}
